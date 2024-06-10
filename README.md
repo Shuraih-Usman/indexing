@@ -72,34 +72,28 @@ This project is a PHP script that allows you to submit URLs to the Google Indexi
     - https://example.com/page1
     - https://example.com/page2
 
-# Output
 
-    ```
-    {
-"success": true,
-"message": "URLs indexed successfully",
-"responses": [
-{
-"url": "https://example.com/page1",
-"response": {
-// Response details
-}
-},
-{
-"url": "https://example.com/page2",
-"response": {
-// Response details
-}
-}
-]
-}
-    ```
+### Output
 
-*** folder Structure ***
-google-indexing-api-script/
-├── index.php
-├── index.html
-├── key.json
-├── logs/
-├── vendor/
-└── README.md
+```json
+{
+    "success": true,
+    "message": "URLs indexed successfully",
+    "responses": [
+        {
+            "url": "https://example.com/page1",
+            "response": {
+                // Response details
+            }
+        },
+        {
+            "url": "https://example.com/page2",
+            "response": {
+                // Response details
+            }
+        }
+    ]
+} 
+
+
+
