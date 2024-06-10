@@ -67,11 +67,12 @@ This project is a PHP script that allows you to submit URLs to the Google Indexi
 
 ## Example
 
-### Input
-https://example.com/page1
-https://example.com/page2
+# Input
 
-### Output
+    - https://example.com/page1
+    - https://example.com/page2
+
+# Output
 
     ```
     {
