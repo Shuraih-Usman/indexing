@@ -21,8 +21,8 @@ This project is a PHP script that allows you to submit URLs to the Google Indexi
 1. **Clone the repository**
 
     ```bash
-    git clone https://github.com/yourusername/google-indexing-api-script.git
-    cd google-indexing-api-script
+    git clone https://github.com/Shuraih-Usman/indexing.git
+    cd indexing
     ```
 
 2. **Install dependencies**
