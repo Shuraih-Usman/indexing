@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "tnovelsindex1",
+  "private_key_id": "da5667ff2214dcf3efe03b905268117095f5815f",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEuwIBADANBgkqhkiG9w0BAQEFAASCBKUwggShAgEAAoIBAQCxWVhUjmWCwzE9\nmOWumtQ0UnGGFzDXn/+I8tCG7f5ukvXq8CIP/P32amgyqUf9c4heykhF785AnMvb\nO+NhTJ3Gha3TPJyXPwA7gScUeZ8xilqcNzTsZzaj9oRtm9OgMhJbYPtuguiQ3RgT\ntneeGSfHzmLBkbmWqUQTqPiHfS0hYh3GTipzK/eL4akoA7FIaXkGlRRaXOZtyVhR\nDVdtuYMuNl4H9ESdM09dJ0t8r5sYmZNd7Nfkv2zwFg+1kQyWksrOnPUmH5+b/6Mu\nwi5Ei1FQHM2UzLXkBU86XkrZ726Zaj/ei5Q+NeXfrVFl7/+gy/tGN2gbNQhY9t5Z\ndjNFLR2XAgMBAAECgf9aZ7EfaXdVsSrou4hZ+ZMzGNPGBwxe3rDknuKt5aRNuZyi\npsa2X8EWXCfBq4mHKd3adENjY1tAlK1WlLDUaLoE+SAjDkLE1tjHfI7vYRBFsMF/\n4KSZ3gN8ka3wMf8vKlcxPb7uFs13Cz26zskrTqd4szykcCSrKJ4LZ5dJegYHfaKl\nRoLlo0f9zRykmnb8cHGzJA0uVzqlzc0q53FX4Q7nAyv8UQbGVi/MTtTkIfZU3OaQ\nb5xFyFG+gCmOqrkpXKQmNj3Hg3xsIIaZf5cjzIm+/MIBdPDX/JxsBloX09tJfOs5\ns0KWbHmzN/a59+6YfHCOkNYR12GcqamkTKjv3O0CgYEA6DcoF8suqDxpybzW1P0b\nYfGiaNAZO4wV1o+ZAS2nY8Y8FgxNmVe8j2Lz8j3cGzcYta0Flye6M7O1aqYeRxKg\ndstKUhl89SU8vYFCHVpgKffI2qO+7MSIYuraMyO+0iq2ETtGajvEcD6J2Pdym+Bk\nYH3Ak1wJ72uo67F5mKB1GOMCgYEAw4ONvAD0IfAqLvn0vbZnupwjOCZuBSRVch47\nO0hEVsMOu7n1HN6+bVJ8qE2b4Q37/y7Fj8cJ8pAaNSFwQmtCKdCbbxT2f26xV/3h\nxxSP1N2sN51C2ytmc9iRSYDfTMJhYy9MDvZP/L4u60xLDkrdPImt98qXFhN4kPSR\nGbBxqr0CgYBt5Bw/FlIgH2bYp1rrNFRPB3CaNVCbk3GKNi5sFlTOrLMmo+/dD14W\nZPeYvZl575rr7tNkctJ1QSgrLi3J6JCzZwTm0VUHFfYmoBLPnUNA2RfeD/t8RI1e\nclGMPfBBuSCsCucJwvr1O0M0v/UmuwwFdb06fyXcfZBU6YnnppeDjQKBgQCcvAeR\nocoUsu1+P09eDq5VQPpS9yvX32rIU0f0nFh8nV5gTBEdlcte5HOekKjX4FgWGC60\ntkFZPQBle2r9M/MUhnE0ub9qJRjyi0rGR8uOQC7hXqbMAJzfXcwK+s8IQAPGeZIl\npHw3B1ehtcWtrYJyF4VpUfWQ8wcCXa08xOA6mQKBgBtOpSKA8z7W8g7NFDbn7PtK\nXGNLvN6h/94ZOCqASdJdCDfpw42EhqCEYhKBKk4BZOewBvdJip/zMHAcvunuwg/0\nwyBUPxGIwFXgRcSgg/6Z8BY+gsVzYuK8LuxjTPHO52VVkFtuTFIBqPW0rDWKzXCH\ndpA96ZmOVV1w/5pkciqy\n-----END PRIVATE KEY-----\n",
+  "client_email": "abasukala@tnovelsindex1.iam.gserviceaccount.com",
+  "client_id": "105155145885907508477",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/abasukala%40tnovelsindex1.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
